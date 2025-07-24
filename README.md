@@ -1,3 +1,3 @@
 This is my first git repository
 <br>
-Author-Surbhi Saraf
+Author-Surbhi Saraf (apna college)
