@@ -1,1 +1,2 @@
-# GitRepositoryDemo_Apna-College
+This is my first git repository
+Author-Surbhi Saraf
